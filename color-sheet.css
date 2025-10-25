@@ -1,0 +1,91 @@
+/* 
+    This file is made publicly accessible for people to have quick color
+    variables to use in their own projects.
+    This involves generic colors, different shades and pastel colors.
+
+    Love from Nyphy <3
+*/
+
+:root{ /* Generic Colors */
+    --generic-red: #FF0000;
+    --generic-orange: #FFA500;
+    --generic-yellow: #FFFF00;
+    --generic-green: #008000;
+    --generic-blue: #0000FF;
+    --generic-purple: #800080;
+    --generic-pink: #ff61d2;
+    --generic-brown: #4d2800;
+    --generic-black: #000000;
+    --generic-white: #FFFFFF;
+    --generic-gray: #616161;
+}
+
+:root{
+    /* Shades of Red */
+    --shade-red-extra-light: #ff7f7f;
+    --shade-red-light: #ff6666;
+    --shade-red-dark: #990000;
+    --shade-red-extra-dark: #660000;
+    
+    /* Shades of Orange */
+    --shade-orange-extra-light: #ffd588;
+    --shade-orange-light: #ff9f3f;
+    --shade-orange-dark: #ca6602;
+    --shade-orange-extra-dark: #924900;
+    
+    /* Shades of Yellow */
+    --shade-yellow-extra-light: #ffff99;
+    --shade-yellow-light: #ffff66;
+    --shade-yellow-dark: #cccc00;
+    --shade-yellow-extra-dark: #998f00;
+
+    /* Shades of Green */
+    --shade-green-extra-light: #90ee90;
+    --shade-green-light: #32cd32;
+    --shade-green-dark: #006400;
+    --shade-green-extra-dark: #004d00;
+
+    /* Shades of Blue */
+    --shade-blue-extra-light: #add8e6;
+    --shade-blue-light: #6495ed;
+    --shade-blue-dark: #00008b;
+    --shade-blue-extra-dark: #00005c;
+
+    /* Shades of Purple */
+    --shade-purple-extra-light: #dda0dd;
+    --shade-purple-light: #ba55d3;
+    --shade-purple-dark: #4b0082;
+    --shade-purple-extra-dark: #3e0e5c;
+
+    /* Shades of Pink */
+    --shade-pink-extra-light: #ffb6c1;
+    --shade-pink-light: #ff69b4;
+    --shade-pink-dark: #c71585;
+    --shade-pink-extra-dark: #8b0a50;
+}
+
+:root { /* Pastel Colors */
+    --pastel-red: #ff6961;
+    --pastel-orange: #ffb347;
+    --pastel-yellow: #fdfd96;
+    --pastel-green: #77dd77;
+    --pastel-blue: #aec6cf;
+    --pastel-purple: #cba0e3;
+    --pastel-pink: #ffb7ce;
+}
+
+:root { /* Accent Colors */
+    --accent-teal: #008080;
+    --accent-coral: #ff7f50;
+    --accent-gold: #ffd700;
+    --accent-silver: #c0c0c0;
+    --accent-olive: #808000;
+    --accent-navy: #000080;
+    --accent-maroon: #800000;
+    --accent-lime: #00ff00;
+
+    --accent-gray-light: #a1a1a1;
+    --accent-gray-dark: #515151;
+    --accent-black-light: #333333;
+    --accent-black-dark: #1a1a1a;
+}

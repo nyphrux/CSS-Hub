@@ -1,0 +1,72 @@
+/* 
+    This file is made publicly accessible for people to have quick color
+    variables to use in their own projects.
+    This involves loads of pastel colors.
+
+    Love from Nyphy <3
+*/
+
+ :root { /* Basic Pastel Colors */
+    --pastel-red: #ff6961;
+    --pastel-orange: #ffb347;
+    --pastel-yellow: #fdfd96;
+    --pastel-green: #77dd77;
+    --pastel-blue: #aec6cf;
+    --pastel-purple: #cba0e3;
+    --pastel-pink: #ffb7ce;
+}
+
+:root { /* Additional Pastel Colors */
+    --pastel-lavender: #e3e4fa;
+    --pastel-mint: #bdfcc9;
+    --pastel-peach: #ffdab9;
+    --pastel-coral: #ff6f61;
+    --pastel-teal: #99dfe5;
+    --pastel-yellow-green: #d0f0c0;
+    --pastel-sky-blue: #87ceeb;
+}
+
+:root { /* Pastel Color Variations */
+    --pastel-red-light: #ff8a80;
+    --pastel-orange-light: #ffcc80;
+    --pastel-yellow-light: #ffffb3;
+    --pastel-green-light: #a8e6a1;
+    --pastel-blue-light: #b3d9ff;
+    --pastel-purple-light: #d1b3ff;
+    --pastel-pink-light: #ffcad4;
+}
+
+:root { /* Soft Pastel Colors */
+    --soft-pastel-red: #ff9aa2;
+    --soft-pastel-orange: #ffb347;
+    --soft-pastel-yellow: #fff5ba;
+    --soft-pastel-green: #b5ead7;
+    --soft-pastel-blue: #c7ceea;
+    --soft-pastel-purple: #d4a5f5;
+    --soft-pastel-pink: #ffb6c1;
+}
+
+:root { /* Muted Pastel Colors */
+    --muted-pastel-red: #e57373;
+    --muted-pastel-orange: #ffb74d;
+    --muted-pastel-yellow: #fff176;
+    --muted-pastel-green: #81c784;
+    --muted-pastel-blue: #64b5f6;
+    --muted-pastel-purple: #9575cd;
+    --muted-pastel-pink: #f06292;
+}
+
+:root { /* Bright Pastel Colors */
+    --bright-pastel-red: #ff4d6d;
+    --bright-pastel-orange: #ff7f50;
+    --bright-pastel-yellow: #fffa65;
+    --bright-pastel-green: #32ff7e;
+    --bright-pastel-blue: #4da6ff;
+    --bright-pastel-purple: #b366ff;
+    --bright-pastel-pink: #ff66b2;
+}
+
+:root { /* Pastel Accent Colors */
+    --accent-pastel-teal: #66b2b2;
+    --accent-pastel-coral: #ff8c69;
+}

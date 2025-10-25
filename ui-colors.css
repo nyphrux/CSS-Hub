@@ -1,0 +1,29 @@
+/* 
+    This file is made publicly accessible for people to have quick color
+    variables to use in their own projects.
+    This involves a range of white to black colors for ui elements.
+
+    Love from Nyphy <3
+*/
+
+:root{ /* White colors */
+    --ui-white: #FFFFFF;
+    --ui-off-white: #F8F8F8;
+    --ui-cream: #FFFDD0;
+    --ui-light-cream: #FFFFE0;
+    --ui-dark-cream: #FFE4B5;
+}
+
+:root{ /* Gray colors */
+    --ui-light-gray: #D3D3D3;
+    --ui-gray: #A9A9A9;
+    --ui-dark-gray: #696969;
+    --ui-charcoal: #36454F;
+    --ui-slate-gray: #708090;
+}
+
+:root{ /* Black colors */
+    --ui-dark-charcoal: #2F4F4F;
+    --ui-black: #000000;
+    --ui-off-black: #0A0A0A;
+}
